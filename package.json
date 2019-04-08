@@ -1,0 +1,11 @@
+{
+    "name": "codewarsTDD",
+    "version": "1.0.0",
+    "description": "",
+    "main": "stairsIn20.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC"
+}
